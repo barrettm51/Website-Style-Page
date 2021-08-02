@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100;400;600&family=Inconsolata:wght@400;700;900&family=Palette+Mosaic&display=swap');
+
+h1 {
+    font-family: inconsolata;
+    font-weight: 900;
+    font-size: 35px;
+}
+h2 {
+    display: inline-block;
+    text-align: center;
+    font-family: inconsolata;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+h3 {
+    text-decoration: underline;
+    font-family: inconsolata;
+    font-weight: 700;
+    font-size: 19px;
+}
+
+.coral {
+    background-color: coral;
+}
+
+.royal-blue {
+    background-color: royalblue;
+}
+
+.medium-sea-green {
+    background-color: mediumseagreen;
+}
+
+.gonzaga-red {
+    background-color: #C8102E;
+}
+
+section {
+    box-sizing: border-box;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 3px 20px;
+    width: 30%;
+    height: 550px;
+    float: left;
+}
+
+.color {
+    border-radius: 2%;
+    text-align: center;
+}
+
+p {
+    font-family: inconsolata;
+    font-weight: 400;
+}
+
+.Inconsolata {
+    font-family: Inconsolata;
+}
+
+#Inconsolata700 {
+    font-family: Inconsolata;
+    font-weight: 700;
+}
+
+#Inconsolata900 {
+    font-family: Inconsolata;
+    font-weight: 900;
+}
+
+.Hahmlet {
+    font-family: hahmlet;
+}
+
+#hahmlet100 {
+    font-family: hahmlet;
+    font-weight: 100;
+}
+
+#hahmlet600 {
+    font-family: hahmlet;
+    font-weight: 600;
+}
+
+.palette-mosaic {
+    font-family: 'palette mosaic';
+}
